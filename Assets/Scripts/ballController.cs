@@ -77,7 +77,7 @@ public class ballController : MonoBehaviour {
                 transform.position = spawnPoint.position;
 
         }
-
+        //pidedam komientara
 
         // transform.position = spawnPoint.position;
         /*
